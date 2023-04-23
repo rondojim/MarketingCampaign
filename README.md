@@ -16,7 +16,7 @@ behaviours and concerns of different types of customers.
 
 ## Tasks
 
-### Preprocessing / Cleaning
+#### Preprocessing / Cleaning
 <p align = "justify">
 Check if there are any missing values in the data and
 handle them accordingly, convert columns relating to dates to DateTime
@@ -25,20 +25,20 @@ Use information from already existing features in order to create new columns.
 and get clearer picture of the data using plots. 
 </p>  
 
-### Correlation study
+#### Correlation study
 <p align = "justify">
 Examine the correlation between features with a heatmap diagrams.
 Use histograms and scatter plots to find the relationship between features.
 Study the results and find useful information about the customers.
 </p>
 
-### Principal component analysis (PCA)
+#### Principal component analysis (PCA)
 <p align = "justify">
 Reduce the dimensionality to three components while keeping as much of the original variation in the data as possible.
 Visualize the 3D outcome.
 </p>
 
-### Clustering
+#### Clustering
 Use ELBOW method for determining the number of clusters to be formed.
 Use clustering through cumulative clustering (K-means, Agglomerative)
 Display the formed clusters via scatter plot.
